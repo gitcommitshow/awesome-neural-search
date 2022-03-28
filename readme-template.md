@@ -3,11 +3,11 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/<YOUR GITHUB USER>/<YOUR REPO>/actions/workflows/lint.yaml/badge.svg)](https://github.com/<YOURE GITHUB USER>/<YOUR REPO>/actions/workflows/lint.yaml)
+# Awesome Neural-Search [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/gitcommitshow/awesome-neural-search/actions/workflows/lint.yaml/badge.svg)](https://github.com/gitcommitshow/awesome-neural-search/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+Awesome list of  Neural Search related resources, tools and projects
 
 <!-- image -->
 
@@ -17,8 +17,8 @@ A template for an awesome list with required conventions out of the box!
 
 <!-- description -->
 
-A one line description of the product or tool. See [awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an example.
-
+Neural Network powered search is called Neural Search. It brings breakthrough use cases that were not possible by simple Rules or Statistics based search.
+  
 </div>
 
 <!-- TOC -->
@@ -53,4 +53,4 @@ Who else should we be following!?
 
 ### Contributors
 
-<!-- [Thanks goes to these contributors](https://github.com/TODO_YOUR_REPO_NAME_HERE/graphs/contributors)! -->
+[Thanks goes to these contributors](https://github.com/gitcommitshow/awesome-neural-search/graphs/contributors)!
