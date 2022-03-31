@@ -28,6 +28,7 @@ Neural Network powered search is called Neural Search. It brings breakthrough us
 - [Courses](#courses)
 - [Research Papers](#research-papers)
 - [Open-Source Tools](#open-source-tools)
+- [Showcase](#showcase)
 - [People To Follow](#people-to-follow)
 
 <!-- CONTENT -->
@@ -49,7 +50,7 @@ Neural Network powered search is called Neural Search. It brings breakthrough us
 
 ## Showcase
 
-[Share your projects using Neural Search](contributing.md)
+[Share your Neural Search projects](contributing.md)
 
 <!-- END CONTENT -->
 
