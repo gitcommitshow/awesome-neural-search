@@ -44,8 +44,12 @@ Neural Network powered search is called Neural Search. It brings breakthrough us
 
 - [Jina](https://github.com/jina-ai/jina/) - A python-based Neural Search framework
 - [Weaviate](https://github.com/semi-technologies/weaviate) - A Golang-based vector search engine
-- [Finetuner](https://github.com/jina-ai/finetuner) - A python package to finetune neural network for search applications
-- [DocArray](https://github.com/jina-ai/docarray) - A python package to provide data structure for unstructured data
+- [DocArray](https://github.com/jina-ai/docarray) - A Python package to provide data structure for unstructured data
+- [Finetuner](https://github.com/jina-ai/finetuner) - A Python package to finetune neural network for search applications
+
+## Showcase
+
+[Share your projects using Neural Search](contributing.md)
 
 <!-- END CONTENT -->
 
