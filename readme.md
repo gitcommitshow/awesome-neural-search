@@ -25,27 +25,36 @@ Neural Network powered search is called Neural Search. It brings breakthrough us
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
-- [Follow](#follow)
+- [Courses](#courses)
+- [Research Papers](#research-papers)
+- [Open-Source Tools](#open-source-tools)
+- [People To Follow](#people-to-follow)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Courses
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- [Introduction to Neural Search](https://cloudxlab.com/assessment/playlist-intro/1196/introduction-to-neural-search) - A bite-sized course
 
-## Section 1
+## Research Papers
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- [Neural Ranking Models for Information Retrieval](https://arxiv.org/abs/1903.06902)
+
+## Open-Source Tools
+
+- [Jina](https://github.com/jina-ai/jina/) - A python-based Neural Search framework
+- [Weaviate](https://github.com/semi-technologies/weaviate) - A Golang-based vector search engine
+- [Finetuner](https://github.com/jina-ai/finetuner) - A python package to finetune neural network for search applications
+- [DocArray](https://github.com/jina-ai/docarray) - A python package to provide data structure for unstructured data
 
 <!-- END CONTENT -->
 
-## Follow
+## People To Follow
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
-Who else should we be following!?
+- [Han Xiao](https://twitter.com/hxiao) - Founder of Jina AI
+- [Bob van Luijt](https://twitter.com/bobvanluijt) - Founder of Semi Technologies
 
 ## Contributing
 
