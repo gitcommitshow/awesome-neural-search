@@ -41,18 +41,24 @@ Neural Network powered search is called Neural Search. It brings breakthrough us
 
 - [Neural Ranking Models for Information Retrieval](https://arxiv.org/abs/1903.06902)
 
+
+
 ## Open-Source Tools
 
 - [Jina](https://github.com/jina-ai/jina/) - A Python-based Neural Search framework
 - [Weaviate](https://github.com/semi-technologies/weaviate) - A Golang-based vector search engine
 - [DocArray](https://github.com/jina-ai/docarray) - A Python package to provide data structure for unstructured data
 - [Finetuner](https://github.com/jina-ai/finetuner) - A Python package to finetune neural network for search applications
+- [CLIP-as-service](https://github.com/jina-ai/clip-as-service) - Embed images and sentences into fixed-length vectors with CLIP
+
+
 
 ## Showcase
 
 [Share your Neural Search projects](contributing.md)
 
 <!-- END CONTENT -->
+
 
 ## People To Follow
 
@@ -61,9 +67,11 @@ Neural Network powered search is called Neural Search. It brings breakthrough us
 - [Han Xiao](https://twitter.com/hxiao) - Founder of Jina AI
 - [Bob van Luijt](https://twitter.com/bobvanluijt) - Founder of Semi Technologies
 
+
 ## Contributing
 
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
 
 ### Contributors
 
