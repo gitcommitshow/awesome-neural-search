@@ -53,7 +53,7 @@ Neural Network powered search is called Neural Search. It brings breakthrough us
 - [Weaviate](https://github.com/semi-technologies/weaviate) - A Golang-based vector search engine
 - [DocArray](https://github.com/jina-ai/docarray) - A Python package to provide data structure for unstructured data
 - [Finetuner](https://github.com/jina-ai/finetuner) - A Python package to finetune neural network for search applications
-- [CLIP-as-service](https://github.com/jina-ai/clip-as-service) - Embed images and sentences into fixed-length vectors with CLIP
+- [CLIP-as-service](https://github.com/jina-ai/clip-as-service) - A Python package to embed images and sentences into fixed-length vectors with CLIP
 
 
 
