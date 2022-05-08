@@ -19,6 +19,10 @@ Awesome list of  Neural Search related resources, tools and projects
 
 Neural Network powered search is called Neural Search. It brings breakthrough use cases that were not possible by simple Rules or Statistics based search.
   
+  <a href="https://youtu.be/nM1dJtHAwrU" target="_blank">
+    <img src="assets/what-is-neural-search-vid.gif" alt="animated gif for the video on Youtube" />
+  </a>
+  
 </div>
 
 <!-- TOC -->
