@@ -55,7 +55,9 @@ Neural Network powered search is called Neural Search. It brings breakthrough us
 - [Finetuner](https://github.com/jina-ai/finetuner) - A Python package to finetune neural network for search applications
 - [CLIP-as-service](https://github.com/jina-ai/clip-as-service) - A Python package to embed images and sentences into fixed-length vectors with CLIP
 
+## Standards
 
+- [OpenSearch](https://github.com/dewitt/opensearch) - A collection of simple formats for the sharing of search results
 
 ## Showcase
 
